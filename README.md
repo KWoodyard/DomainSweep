@@ -6,6 +6,7 @@
 
 ## Features
 
+- ✅ ***Only to be used in Domain Controller***
 - ✅ Fully **console-based**, no CSV files required  
 - ✅ Optional **output file** via `> output.txt`  
 - ✅ **Color-coded severity**: Info = white, Warning = yellow, Critical = red  
